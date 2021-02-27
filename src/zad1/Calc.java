@@ -1,8 +1,3 @@
-/**
- *
- *  @author Ługowska Dominika S17226
- *
- */
 
 package zad1;
 
